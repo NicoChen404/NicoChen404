@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoChen404
 - 👀 I’m interested in write code.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nobody.
+- 💞️ I’m looking to collaborate on anybody.
 - 📫 How to reach me <2523730014@qq.com>
 
 <!---
